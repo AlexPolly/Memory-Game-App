@@ -7,7 +7,7 @@
 .main{
   background-image: url('https://4kwallpapers.com/images/wallpapers/assassins-creed-valhalla-vikings-gameplay-2020-games-2880x1800-600.jpg');
   background-size: cover;
-  height: 130vh;
+  height: 150vh;
 }
 .head{
   justify-content: center;
@@ -59,7 +59,7 @@
   width: 170px;
   height: 0%;
  margin-left: 100px;
- margin-bottom: 30px;
+ margin-bottom: 150px;
  margin-right: 0px;
 }
 .turns{
